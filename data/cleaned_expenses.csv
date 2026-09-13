@@ -1,0 +1,501 @@
+Date,Category,Description,Amount,Payment_Method
+2026-06-03,Food,Lunch,1098.15,Cash
+2026-06-29,Food,Snacks,1043.84,UPI
+2026-05-12,Entertainment,Game,1472.42,UPI
+2026-09-01,Shopping,Clothes,6700.98,UPI
+2026-01-03,Food,Lunch,1081.85,Cash
+2026-08-16,Health,Lab Test,2017.68,Cash
+2026-03-04,Entertainment,Unknown,1162.84,UPI
+2026-03-15,Food,Lunch,1024.82,Cash
+2026-06-07,Shopping,Accessories,3384.92,Card
+2026-05-20,Travel,Auto,1273.18,Cash
+2026-09-27,Education,Course,3652.7,Card
+2026-07-07,Food,Dinner,334.14,Card
+2026-06-02,Shopping,Shoes,3922.42,UPI
+2026-04-03,Food,Dinner,490.36,UPI
+2026-09-22,Shopping,Electronics,3802.18,Card
+2026-01-09,Health,Dental,634.18,UPI
+2026-05-25,Shopping,Accessories,3013.13,Cash
+2026-06-08,Bills,Rent,4982.9,UPI
+2026-03-09,Travel,Train,698.05,Cash
+2026-08-29,Health,Medicine,3860.37,UPI
+2026-01-06,Education,Stationery,3870.4,Card
+2026-08-28,Entertainment,Restaurant,2453.97,UPI
+2026-01-26,Entertainment,Concert,302.67,UPI
+2026-02-10,Food,Groceries,1101.94,Cash
+2026-01-13,Bills,Gas Bill,4621.44,UPI
+2026-04-24,Bills,Mobile Bill,2403.35,UPI
+2026-02-19,Travel,Fuel,466.41,Net Banking
+2026-08-05,Travel,Cab,218.24,UPI
+2026-01-10,Food,Snacks,662.66,UPI
+2026-05-11,Entertainment,Restaurant,718.95,Card
+2026-05-18,Bills,Mobile Bill,2064.97,Card
+2026-07-30,Bills,Internet Bill,5063.62,Cash
+2026-07-30,Health,Pharmacy,1836.22,Card
+2026-03-28,Food,Breakfast,310.52,Net Banking
+2026-06-11,Shopping,Household Items,5926.34,UPI
+2026-01-30,Education,Online Learning,1583.5,Card
+2026-08-18,Food,Dinner,495.29,Net Banking
+2026-04-17,Food,Snacks,619.58,Cash
+2026-07-25,Travel,Fuel,1096.88,Cash
+2026-07-08,Education,Books,4249.16,Net Banking
+2026-06-29,Health,Doctor Consultation,4280.85,UPI
+2026-06-02,Bills,Rent,907.39,UPI
+2026-04-24,Health,Lab Test,3165.69,UPI
+2026-04-28,Food,Groceries,842.4,UPI
+2026-08-19,Education,Books,762.1,UPI
+2026-05-10,Food,Groceries,403.77,Card
+2026-05-03,Entertainment,OTT Subscription,1518.2,UPI
+2026-05-15,Food,Lunch,345.15,UPI
+2026-01-11,Travel,Metro,834.51,Cash
+2026-06-28,Bills,Mobile Bill,5222.29,Card
+2026-04-29,Health,Dental,2029.27,UPI
+2026-05-19,Shopping,Electronics,4105.98,Card
+2026-09-03,Food,Groceries,250.59,Card
+2026-01-13,Education,Online Learning,1562.76,Card
+2026-02-18,Shopping,Household Items,6861.08,UPI
+2026-06-19,Shopping,Accessories,2115.42,UPI
+2026-04-14,Food,Breakfast,1188.6,UPI
+2026-04-03,Food,Groceries,1001.9,UPI
+2026-06-19,Food,Snacks,174.63,Net Banking
+2026-02-08,Education,Online Learning,3759.75,UPI
+2026-05-25,Shopping,Shoes,2045.97,Card
+2026-02-06,Travel,Auto,1004.41,Net Banking
+2026-04-22,Food,Breakfast,421.0,Cash
+2026-01-10,Health,Doctor Consultation,432.77,UPI
+2026-09-22,Bills,Electricity Bill,3075.27,UPI
+2026-07-15,Bills,Gas Bill,2806.0,Cash
+2026-01-19,Bills,Gas Bill,5971.53,Card
+2026-01-20,Entertainment,OTT Subscription,1863.74,UPI
+2026-03-08,Travel,Cab,1098.68,Card
+2026-09-11,Education,Exam Fee,2737.56,Cash
+2026-04-02,Bills,Rent,2555.12,UPI
+2026-05-28,Education,Online Learning,1476.95,UPI
+2026-01-29,Bills,Gas Bill,3393.33,Net Banking
+2026-04-16,Shopping,Electronics,7211.59,Net Banking
+2026-01-17,Travel,Bus,732.48,UPI
+2026-02-28,Travel,Metro,316.92,UPI
+2026-08-22,Food,Snacks,301.99,Net Banking
+2026-06-07,Education,Exam Fee,809.17,Card
+2026-03-31,Travel,Cab,1327.75,Card
+2026-07-15,Bills,Gas Bill,5482.46,Net Banking
+2026-09-26,Travel,Cab,1316.26,Card
+2026-06-04,Food,Dinner,616.95,Card
+2026-07-23,Health,Pharmacy,4960.27,Cash
+2026-04-08,Bills,Mobile Bill,946.35,UPI
+2026-04-04,Travel,Metro,927.41,UPI
+2026-04-22,Education,Books,4501.39,UPI
+2026-02-18,Entertainment,Movie,859.27,UPI
+2026-04-11,Entertainment,OTT Subscription,929.75,UPI
+2026-05-26,Travel,Metro,261.69,UPI
+2026-01-12,Bills,Mobile Bill,3081.3,UPI
+2026-01-17,Travel,Cab,1194.2,Card
+2026-07-19,Education,Stationery,2239.9,UPI
+2026-05-19,Food,Dinner,1153.44,Net Banking
+2026-04-22,Food,Dinner,1139.18,UPI
+2026-04-26,Bills,Internet Bill,4282.16,Card
+2026-08-29,Travel,Train,578.4,Cash
+2026-04-21,Food,Dinner,404.16,Card
+2026-09-20,Bills,Mobile Bill,5920.47,UPI
+2026-01-19,Shopping,Household Items,4626.1,UPI
+2026-09-30,Bills,Rent,5703.15,UPI
+2026-07-21,Bills,Electricity Bill,3448.37,Cash
+2026-05-25,Food,Snacks,729.87,Card
+2026-06-28,Bills,Mobile Bill,3608.8,Card
+2026-08-02,Food,Groceries,926.2,UPI
+2026-08-23,Travel,Auto,376.92,Card
+2026-04-29,Travel,Cab,848.84,Card
+2026-03-25,Food,Breakfast,889.89,UPI
+2026-09-12,Food,Groceries,1063.53,UPI
+2026-09-20,Travel,Train,66.54,Cash
+2026-07-12,Travel,Metro,1315.27,UPI
+2026-07-21,Entertainment,Concert,2459.17,UPI
+2026-03-07,Shopping,Household Items,7715.92,Card
+2026-03-22,Food,Breakfast,355.59,UPI
+2026-02-06,Travel,Metro,1154.26,Card
+2026-01-20,Shopping,Household Items,931.7,UPI
+2026-09-13,Shopping,Electronics,479.57,Net Banking
+2026-05-16,Education,Stationery,1476.18,Net Banking
+2026-01-23,Entertainment,Movie,1884.3,Card
+2026-03-22,Food,Breakfast,1132.82,Card
+2026-09-23,Shopping,Electronics,4348.71,UPI
+2026-04-19,Food,Dinner,224.51,UPI
+2026-08-23,Food,Unknown,422.5,Cash
+2026-05-07,Food,Groceries,532.52,UPI
+2026-02-25,Travel,Train,457.65,Cash
+2026-08-07,Education,Online Learning,2079.16,UPI
+2026-06-30,Education,Books,3587.83,UPI
+2026-03-14,Shopping,Electronics,2638.05,UPI
+2026-05-04,Bills,Electricity Bill,5078.91,UPI
+2026-03-15,Shopping,Accessories,2652.72,Card
+2026-05-04,Food,Snacks,1098.97,UPI
+2026-02-18,Food,Dinner,449.44,UPI
+2026-04-23,Bills,Electricity Bill,1004.47,UPI
+2026-02-08,Travel,Cab,40.75,UPI
+2026-03-06,Travel,Cab,997.97,Card
+2026-07-30,Education,Books,3453.0,Card
+2026-08-18,Entertainment,Movie,436.82,UPI
+2026-05-05,Entertainment,Movie,1955.05,Card
+2026-09-19,Travel,Bus,203.47,Net Banking
+2026-04-05,Food,Unknown,320.33,UPI
+2026-09-27,Food,Groceries,582.58,UPI
+2026-06-13,Education,Books,1566.66,UPI
+2026-07-30,Food,Coffee,522.41,Card
+2026-06-08,Bills,Internet Bill,5093.19,UPI
+2026-06-01,Education,Exam Fee,2039.94,Card
+2026-06-23,Bills,Internet Bill,1181.28,UPI
+2026-08-15,Travel,Metro,341.31,UPI
+2026-02-15,Shopping,Shoes,2551.79,Cash
+2026-05-05,Shopping,Shoes,552.35,UPI
+2026-08-18,Food,Dinner,1138.57,UPI
+2026-08-07,Food,Coffee,449.83,Card
+2026-07-11,Bills,Internet Bill,5838.84,Card
+2026-05-27,Entertainment,Concert,1658.16,Net Banking
+2026-03-02,Health,Dental,2666.46,UPI
+2026-06-04,Entertainment,Game,1442.1,UPI
+2026-07-02,Shopping,Household Items,2564.98,UPI
+2026-04-20,Entertainment,Restaurant,1164.19,UPI
+2026-03-26,Shopping,Shoes,1909.68,UPI
+2026-03-21,Food,Breakfast,1046.3,UPI
+2026-03-10,Health,Pharmacy,1278.31,Cash
+2026-05-03,Health,Medicine,3712.91,UPI
+2026-07-02,Travel,Auto,664.33,Cash
+2026-06-08,Education,Stationery,1424.51,Cash
+2026-05-15,Bills,Rent,2876.51,Cash
+2026-07-25,Health,Doctor Consultation,3389.07,UPI
+2026-06-21,Health,Dental,203.43,UPI
+2026-03-13,Bills,Rent,2971.49,UPI
+2026-07-22,Food,Snacks,914.13,Net Banking
+2026-04-02,Education,Exam Fee,2447.94,Net Banking
+2026-08-12,Bills,Gas Bill,720.83,UPI
+2026-03-19,Shopping,Clothes,6645.08,Card
+2026-05-28,Entertainment,Unknown,2319.28,Card
+2026-04-26,Travel,Metro,217.02,UPI
+2026-09-23,Food,Breakfast,391.44,UPI
+2026-06-11,Education,Exam Fee,3963.59,Cash
+2026-03-23,Food,Lunch,254.09,Card
+2026-07-12,Food,Groceries,350.64,Cash
+2026-06-20,Shopping,Electronics,2073.76,Cash
+2026-03-25,Education,Exam Fee,4281.32,UPI
+2026-08-04,Entertainment,Movie,2139.49,Cash
+2026-04-17,Food,Lunch,425.33,UPI
+2026-07-28,Bills,Mobile Bill,3010.22,UPI
+2026-03-20,Education,Books,939.03,UPI
+2026-01-03,Shopping,Accessories,7495.97,UPI
+2026-03-09,Entertainment,OTT Subscription,1430.29,Cash
+2026-04-22,Entertainment,Concert,1930.97,UPI
+2026-06-10,Food,Dinner,661.9,Cash
+2026-05-28,Food,Breakfast,142.04,UPI
+2026-06-03,Food,Breakfast,252.03,UPI
+2026-08-22,Education,Stationery,3057.02,UPI
+2026-03-26,Travel,Bus,728.7,Card
+2026-01-31,Entertainment,Concert,2247.25,UPI
+2026-02-03,Bills,Mobile Bill,1505.45,UPI
+2026-07-07,Entertainment,Restaurant,111.38,Card
+2026-07-25,Entertainment,Movie,2484.08,UPI
+2026-07-10,Food,Groceries,914.61,Cash
+2026-05-28,Bills,Internet Bill,5266.35,Card
+2026-08-20,Shopping,Electronics,1018.84,UPI
+2026-07-21,Travel,Train,1150.92,UPI
+2026-08-09,Bills,Mobile Bill,3542.07,Card
+2026-03-26,Food,Unknown,460.22,Net Banking
+2026-03-08,Shopping,Household Items,2117.83,Card
+2026-05-18,Bills,Gas Bill,1226.57,Cash
+2026-08-14,Bills,Internet Bill,5580.81,UPI
+2026-05-31,Travel,Train,305.76,UPI
+2026-03-11,Bills,Internet Bill,5190.3,UPI
+2026-07-11,Food,Breakfast,892.21,Card
+2026-01-23,Food,Lunch,259.55,Card
+2026-03-29,Education,Online Learning,3941.49,Cash
+2026-02-19,Health,Doctor Consultation,1899.68,UPI
+2026-09-20,Bills,Mobile Bill,3245.57,Cash
+2026-06-17,Shopping,Household Items,2873.17,UPI
+2026-08-03,Shopping,Accessories,5150.11,UPI
+2026-02-18,Shopping,Electronics,601.07,Card
+2026-05-25,Food,Breakfast,753.75,UPI
+2026-03-30,Food,Dinner,801.29,Cash
+2026-02-23,Travel,Auto,161.94,UPI
+2026-09-27,Shopping,Electronics,2173.67,Card
+2026-01-29,Education,Online Learning,4915.36,Net Banking
+2026-08-31,Food,Lunch,301.55,Card
+2026-07-23,Health,Doctor Consultation,2724.62,UPI
+2026-02-03,Shopping,Electronics,5195.43,UPI
+2026-08-08,Entertainment,Movie,2137.1,UPI
+2026-08-09,Shopping,Shoes,2786.24,Cash
+2026-01-22,Education,Course,4103.16,UPI
+2026-02-23,Travel,Auto,892.07,UPI
+2026-09-04,Bills,Electricity Bill,5651.68,UPI
+2026-01-16,Travel,Fuel,945.38,Card
+2026-03-02,Shopping,Household Items,1322.49,Card
+2026-06-13,Food,Snacks,226.89,UPI
+2026-06-23,Shopping,Accessories,339.13,UPI
+2026-01-28,Travel,Fuel,1470.9,Cash
+2026-09-09,Bills,Rent,3206.84,Cash
+2026-07-16,Travel,Train,617.52,Card
+2026-07-27,Bills,Electricity Bill,3066.97,UPI
+2026-02-02,Bills,Electricity Bill,3336.28,UPI
+2026-04-17,Education,Books,4692.2,Card
+2026-02-01,Bills,Internet Bill,3902.93,UPI
+2026-01-16,Food,Dinner,134.54,UPI
+2026-09-26,Shopping,Accessories,7245.96,Card
+2026-08-24,Shopping,Electronics,7958.67,Card
+2026-06-21,Entertainment,Restaurant,927.14,Cash
+2026-09-24,Food,Lunch,521.42,UPI
+2026-05-25,Shopping,Electronics,7772.9,UPI
+2026-02-13,Shopping,Household Items,5662.07,UPI
+2026-08-15,Entertainment,Concert,267.84,UPI
+2026-07-05,Food,Coffee,112.48,UPI
+2026-05-14,Health,Pharmacy,4051.3,Cash
+2026-03-24,Food,Groceries,201.6,Card
+2026-09-08,Entertainment,Restaurant,508.82,Net Banking
+2026-07-31,Travel,Auto,231.13,Cash
+2026-09-01,Bills,Internet Bill,857.21,UPI
+2026-09-18,Health,Dental,4383.37,UPI
+2026-06-06,Food,Groceries,1193.37,UPI
+2026-08-13,Travel,Bus,73.86,UPI
+2026-04-11,Health,Lab Test,3722.38,UPI
+2026-06-21,Education,Stationery,1052.03,UPI
+2026-02-13,Health,Doctor Consultation,2098.06,UPI
+2026-03-12,Food,Breakfast,1118.76,UPI
+2026-05-23,Bills,Gas Bill,4414.38,UPI
+2026-03-03,Food,Breakfast,568.67,Card
+2026-06-18,Bills,Internet Bill,4830.88,Cash
+2026-06-16,Entertainment,Movie,2455.33,UPI
+2026-06-27,Travel,Train,1085.11,Net Banking
+2026-05-26,Shopping,Accessories,6845.72,Cash
+2026-03-31,Bills,Mobile Bill,3198.34,Cash
+2026-01-11,Food,Dinner,973.21,Card
+2026-03-15,Food,Coffee,793.52,UPI
+2026-02-04,Health,Pharmacy,4175.59,Net Banking
+2026-04-06,Entertainment,Game,1784.81,Cash
+2026-06-23,Food,Dinner,147.79,Card
+2026-02-03,Shopping,Household Items,231.26,UPI
+2026-08-15,Food,Coffee,462.35,UPI
+2026-05-10,Education,Books,1232.86,Cash
+2026-08-23,Entertainment,OTT Subscription,1988.54,Net Banking
+2026-04-09,Health,Dental,765.64,Card
+2026-03-20,Travel,Auto,1144.13,Card
+2026-07-28,Education,Exam Fee,4203.78,Card
+2026-04-18,Shopping,Shoes,6040.8,Card
+2026-06-02,Bills,Gas Bill,5565.81,Cash
+2026-05-03,Travel,Cab,1024.68,UPI
+2026-02-24,Food,Breakfast,923.93,Card
+2026-09-27,Food,Lunch,643.22,Cash
+2026-06-21,Travel,Metro,924.85,Cash
+2026-01-19,Travel,Fuel,51.58,Card
+2026-07-31,Food,Snacks,839.33,Cash
+2026-01-18,Food,Coffee,1001.9,Cash
+2026-07-17,Shopping,Electronics,2635.27,Net Banking
+2026-06-25,Entertainment,Restaurant,360.78,UPI
+2026-02-08,Bills,Rent,3796.85,Net Banking
+2026-07-17,Bills,Mobile Bill,5618.76,Cash
+2026-01-12,Food,Snacks,526.33,Net Banking
+2026-03-17,Shopping,Household Items,3992.99,UPI
+2026-05-15,Food,Dinner,188.43,Net Banking
+2026-01-20,Food,Groceries,127.43,Card
+2026-03-29,Entertainment,Movie,1667.01,Net Banking
+2026-06-14,Bills,Electricity Bill,4794.61,Net Banking
+2026-09-20,Shopping,Electronics,1871.75,UPI
+2026-07-03,Travel,Bus,1169.11,UPI
+2026-06-04,Health,Dental,1126.54,Net Banking
+2026-08-06,Entertainment,OTT Subscription,2021.4,Cash
+2026-01-31,Shopping,Accessories,6224.35,UPI
+2026-09-27,Health,Lab Test,1255.16,Card
+2026-09-04,Health,Doctor Consultation,3013.05,UPI
+2026-05-18,Food,Dinner,519.68,UPI
+2026-01-31,Bills,Rent,1689.96,UPI
+2026-07-17,Shopping,Household Items,3470.55,Cash
+2026-05-24,Entertainment,Concert,810.48,UPI
+2026-05-02,Entertainment,Movie,2370.46,UPI
+2026-08-18,Shopping,Shoes,4788.79,UPI
+2026-05-21,Food,Lunch,1160.1,UPI
+2026-05-11,Travel,Metro,303.08,Cash
+2026-09-03,Food,Groceries,987.13,UPI
+2026-01-30,Bills,Rent,4591.97,Cash
+2026-01-12,Shopping,Clothes,762.06,Card
+2026-03-30,Travel,Fuel,1253.22,Card
+2026-04-20,Food,Coffee,527.1,UPI
+2026-07-02,Food,Snacks,1119.13,Card
+2026-07-24,Entertainment,Concert,1127.61,Cash
+2026-09-23,Shopping,Clothes,4825.06,UPI
+2026-09-10,Travel,Cab,45.77,UPI
+2026-07-21,Food,Unknown,989.43,UPI
+2026-09-22,Shopping,Household Items,7155.08,Card
+2026-07-24,Entertainment,Restaurant,2476.67,Cash
+2026-02-22,Food,Snacks,427.57,UPI
+2026-07-06,Food,Snacks,1173.86,UPI
+2026-09-20,Food,Coffee,976.99,Cash
+2026-09-20,Entertainment,OTT Subscription,707.64,UPI
+2026-03-17,Shopping,Electronics,2798.13,UPI
+2026-04-04,Shopping,Shoes,2079.23,Card
+2026-07-28,Bills,Rent,4755.46,Card
+2026-06-23,Bills,Electricity Bill,1599.5,UPI
+2026-07-03,Shopping,Electronics,7515.05,Cash
+2026-08-09,Travel,Cab,289.86,Card
+2026-04-06,Food,Lunch,99.79,UPI
+2026-07-23,Travel,Cab,527.53,Card
+2026-06-17,Education,Online Learning,4272.23,UPI
+2026-04-02,Food,Snacks,1155.9,Card
+2026-04-03,Food,Dinner,521.4,UPI
+2026-09-17,Entertainment,Restaurant,1972.72,UPI
+2026-02-17,Food,Lunch,227.64,Card
+2026-08-14,Shopping,Electronics,1227.69,UPI
+2026-09-11,Bills,Gas Bill,2540.02,UPI
+2026-08-17,Bills,Electricity Bill,2467.25,UPI
+2026-07-03,Health,Dental,3969.81,UPI
+2026-05-30,Entertainment,OTT Subscription,2091.5,Card
+2026-03-13,Food,Coffee,1091.24,Net Banking
+2026-05-09,Education,Stationery,4470.94,Net Banking
+2026-02-21,Health,Medicine,3039.21,UPI
+2026-01-01,Bills,Gas Bill,5996.82,Cash
+2026-09-27,Bills,Gas Bill,721.4,UPI
+2026-08-03,Food,Groceries,956.85,UPI
+2026-08-31,Entertainment,Movie,2086.31,Cash
+2026-02-17,Bills,Internet Bill,5711.45,UPI
+2026-04-29,Shopping,Clothes,1934.47,UPI
+2026-05-21,Travel,Train,1178.5,UPI
+2026-03-08,Education,Stationery,2578.43,UPI
+2026-05-10,Shopping,Clothes,2916.55,Card
+2026-09-26,Health,Dental,1178.91,UPI
+2026-02-12,Education,Online Learning,1889.84,Cash
+2026-08-29,Entertainment,OTT Subscription,1108.92,Net Banking
+2026-01-09,Entertainment,Concert,129.53,UPI
+2026-01-12,Health,Medicine,2063.24,Card
+2026-06-28,Bills,Rent,4806.28,Cash
+2026-09-12,Entertainment,Restaurant,1547.46,UPI
+2026-04-14,Bills,Internet Bill,5652.47,UPI
+2026-02-17,Food,Groceries,271.06,Net Banking
+2026-05-28,Food,Dinner,1060.12,Cash
+2026-06-29,Food,Coffee,519.58,Net Banking
+2026-08-14,Bills,Internet Bill,5395.11,Cash
+2026-02-12,Entertainment,Concert,424.19,Card
+2026-05-03,Food,Coffee,590.47,UPI
+2026-05-08,Shopping,Electronics,3377.43,Cash
+2026-08-11,Food,Coffee,770.77,Cash
+2026-03-30,Food,Snacks,814.18,Card
+2026-03-30,Food,Breakfast,677.9,UPI
+2026-05-25,Bills,Electricity Bill,2707.46,Card
+2026-05-12,Education,Online Learning,1646.34,Card
+2026-03-08,Food,Coffee,130.01,UPI
+2026-09-10,Travel,Auto,988.34,Card
+2026-09-19,Education,Exam Fee,4227.53,Net Banking
+2026-01-22,Food,Lunch,454.23,UPI
+2026-07-20,Food,Breakfast,474.48,Card
+2026-09-05,Travel,Auto,720.25,UPI
+2026-09-22,Health,Dental,3047.36,Card
+2026-05-03,Education,Online Learning,4549.31,Card
+2026-09-19,Health,Medicine,472.81,Cash
+2026-07-23,Entertainment,Game,2088.51,Card
+2026-05-19,Shopping,Electronics,1290.42,UPI
+2026-03-08,Education,Exam Fee,4009.67,UPI
+2026-06-17,Food,Coffee,337.84,UPI
+2026-01-28,Food,Coffee,252.95,UPI
+2026-07-18,Food,Lunch,360.49,UPI
+2026-04-03,Travel,Fuel,576.17,UPI
+2026-08-01,Food,Coffee,1049.44,Card
+2026-06-10,Food,Snacks,383.11,Card
+2026-08-17,Health,Dental,1845.38,Cash
+2026-03-23,Health,Doctor Consultation,2726.77,Card
+2026-02-05,Shopping,Clothes,6399.05,Card
+2026-02-20,Shopping,Shoes,5739.91,Card
+2026-08-18,Health,Doctor Consultation,3112.24,Cash
+2026-04-09,Food,Coffee,279.85,UPI
+2026-09-20,Bills,Electricity Bill,972.9,UPI
+2026-04-20,Food,Groceries,445.39,Cash
+2026-05-16,Entertainment,OTT Subscription,2312.45,UPI
+2026-01-07,Bills,Internet Bill,1461.44,UPI
+2026-03-21,Shopping,Accessories,1999.3,Net Banking
+2026-02-13,Entertainment,OTT Subscription,749.67,Cash
+2026-09-28,Shopping,Clothes,7756.27,UPI
+2026-07-12,Shopping,Electronics,5131.18,UPI
+2026-07-31,Food,Breakfast,856.27,UPI
+2026-03-05,Entertainment,Restaurant,110.8,Cash
+2026-09-28,Travel,Train,271.97,UPI
+2026-01-01,Food,Lunch,912.83,UPI
+2026-09-20,Food,Lunch,1160.26,UPI
+2026-02-22,Bills,Electricity Bill,760.56,UPI
+2026-01-29,Food,Dinner,277.27,UPI
+2026-07-10,Travel,Auto,676.87,UPI
+2026-09-06,Bills,Electricity Bill,529.86,UPI
+2026-08-24,Food,Snacks,881.26,Card
+2026-04-10,Education,Exam Fee,3286.39,Card
+2026-05-24,Food,Coffee,932.48,Card
+2026-07-13,Bills,Electricity Bill,4513.79,Card
+2026-03-24,Food,Coffee,1146.16,UPI
+2026-07-16,Entertainment,Restaurant,571.44,UPI
+2026-09-24,Bills,Mobile Bill,5321.73,Cash
+2026-08-22,Education,Exam Fee,1776.13,Cash
+2026-05-03,Food,Groceries,410.13,Card
+2026-04-25,Education,Exam Fee,3957.13,UPI
+2026-05-05,Food,Lunch,877.35,Cash
+2026-07-29,Travel,Bus,446.78,Card
+2026-01-27,Health,Doctor Consultation,3970.8,UPI
+2026-02-17,Bills,Rent,2891.18,UPI
+2026-07-18,Bills,Mobile Bill,4758.77,Card
+2026-05-19,Shopping,Electronics,5582.99,UPI
+2026-04-03,Education,Exam Fee,920.19,UPI
+2026-03-22,Food,Groceries,857.57,Cash
+2026-04-10,Shopping,Clothes,4369.89,Net Banking
+2026-07-22,Education,Course,2801.98,Card
+2026-01-25,Education,Exam Fee,4775.39,UPI
+2026-08-02,Bills,Rent,4378.41,Card
+2026-02-27,Food,Dinner,442.81,Net Banking
+2026-01-03,Entertainment,Game,1218.36,Cash
+2026-02-20,Travel,Metro,222.41,UPI
+2026-03-25,Travel,Metro,891.36,UPI
+2026-05-03,Travel,Fuel,1216.92,Net Banking
+2026-09-25,Entertainment,Movie,192.5,Card
+2026-05-29,Education,Books,624.33,Card
+2026-05-08,Shopping,Clothes,1494.07,Card
+2026-08-18,Food,Coffee,606.35,UPI
+2026-06-07,Food,Dinner,543.6,UPI
+2026-09-26,Food,Breakfast,1050.08,Cash
+2026-02-12,Food,Coffee,440.12,Cash
+2026-04-29,Food,Breakfast,1118.87,UPI
+2026-06-20,Health,Dental,1837.32,UPI
+2026-03-29,Bills,Gas Bill,3254.08,UPI
+2026-02-28,Food,Groceries,252.8,Net Banking
+2026-02-28,Bills,Mobile Bill,4093.92,UPI
+2026-04-25,Food,Snacks,371.99,UPI
+2026-03-09,Travel,Train,101.4,UPI
+2026-02-12,Shopping,Accessories,6827.9,Net Banking
+2026-05-08,Bills,Gas Bill,1931.92,UPI
+2026-03-01,Education,Exam Fee,844.96,UPI
+2026-02-15,Education,Exam Fee,4678.51,Card
+2026-01-19,Food,Snacks,251.68,UPI
+2026-09-28,Bills,Gas Bill,3988.29,UPI
+2026-02-18,Travel,Train,293.85,UPI
+2026-07-16,Bills,Mobile Bill,4129.73,Cash
+2026-01-29,Food,Breakfast,889.04,UPI
+2026-05-06,Food,Groceries,216.61,Card
+2026-06-26,Food,Dinner,941.55,Card
+2026-04-18,Bills,Gas Bill,769.3,UPI
+2026-07-11,Food,Snacks,209.59,UPI
+2026-04-22,Entertainment,Restaurant,1632.32,Cash
+2026-01-25,Education,Books,1103.95,UPI
+2026-03-17,Health,Doctor Consultation,1899.93,UPI
+2026-03-31,Travel,Fuel,771.14,Card
+2026-03-17,Travel,Bus,1417.38,UPI
+2026-03-03,Shopping,Household Items,7800.45,UPI
+2026-04-18,Bills,Mobile Bill,3590.0,Card
+2026-03-24,Food,Snacks,319.78,UPI
+2026-05-24,Bills,Rent,5899.93,Cash
+2026-04-24,Health,Doctor Consultation,895.02,Cash
+2026-06-20,Education,Stationery,4360.65,UPI
+2026-04-15,Food,Groceries,1128.52,Net Banking
+2026-04-28,Health,Doctor Consultation,2373.96,UPI
+2026-03-19,Health,Lab Test,442.6,Card
+2026-01-14,Entertainment,Movie,1578.8,UPI
+2026-06-10,Shopping,Clothes,1891.95,UPI
+2026-02-25,Shopping,Electronics,242.69,Card
+2026-06-25,Bills,Gas Bill,2584.79,Cash
+2026-07-17,Entertainment,Restaurant,2339.04,UPI
+2026-03-23,Food,Dinner,611.03,UPI
+2026-04-22,Bills,Mobile Bill,4977.11,UPI
+2026-09-07,Food,Dinner,845.25,UPI
+2026-09-17,Entertainment,Game,218.21,UPI
+2026-09-25,Entertainment,Restaurant,672.53,Card
+2026-04-20,Food,Coffee,1114.74,Card
+2026-03-19,Food,Breakfast,1014.87,UPI
+2026-08-06,Food,Lunch,110.44,Net Banking
+2026-07-01,Food,Coffee,825.57,Card
