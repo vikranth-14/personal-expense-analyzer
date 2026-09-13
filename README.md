@@ -1,162 +1,206 @@
 # Personal Expense Analyzer
 
-A Python-based expense analysis application that analyzes personal
-spending data and provides useful insights such as total spending,
-average spending, category-wise expenses, payment-method analysis,
-monthly expenses, and highest/lowest expenses.
-
----
+A Python-based personal expense analysis application that helps analyze, summarize, and visualize expense data using Pandas and Matplotlib.
 
 ## Project Overview
 
-Managing personal expenses manually can make it difficult to understand
-where money is being spent.
+The Personal Expense Analyzer is a command-line application developed using Python.
 
-The Personal Expense Analyzer is a Python application that reads expense
-data from a CSV file and performs different types of analysis on the
-data.
+The project takes expense data stored in CSV files, performs data cleaning and exploratory data analysis, and provides different ways to understand spending patterns.
 
-The project combines Python programming, Pandas, data cleaning,
-data analysis, functions, conditional statements, loops, and data
-visualization.
-
----
+The application can analyze expenses by category, payment method, and month. It also provides budget analysis, financial summaries, filtering, and visualizations.
 
 ## Objectives
 
-The main objectives of this project are:
-
-- Analyze personal expense data
-- Calculate total and average expenses
-- Identify the highest and lowest expenses
-- Analyze expenses by category
-- Analyze expenses by payment method
-- Analyze monthly spending
-- Filter expenses by category
-- Visualize spending patterns
-- Practice Python programming and data analysis
-
----
+- Practice Python programming and modular programming
+- Perform data cleaning using Pandas
+- Analyze expense data using Pandas
+- Understand spending patterns
+- Create useful data visualizations
+- Build a command-line application
+- Practice exception handling and input validation
+- Use Git and GitHub for version control
 
 ## Features
 
-### 1. View All Expenses
+### Expense Analysis
 
-Displays the complete expense dataset.
+- View all expenses
+- Calculate total expense
+- Calculate average expense
+- Find highest expense
+- Find lowest expense
+- Analyze expenses by category
+- Analyze expenses by payment method
+- Analyze monthly expenses
 
-### 2. Calculate Total Expense
+### Expense Filtering
 
-Calculates the total amount spent across all recorded transactions.
+- Filter expenses by category
+- Find expenses above a specified amount
 
-### 3. Calculate Average Expense
+### Budget Analysis
 
-Calculates the average amount spent per transaction.
+- Perform overall budget analysis
+- Perform category-wise budget analysis
+- Check remaining budget
+- Detect when spending exceeds the budget
 
-### 4. Find Highest Expense
+### Financial Summary
 
-Identifies the transaction with the highest expense.
+The application provides a financial summary containing:
 
-### 5. Find Lowest Expense
+- Total expense
+- Average expense
+- Highest expense
+- Lowest expense
+- Number of transactions
+- Highest spending category
+- Highest spending month
 
-Identifies the transaction with the lowest expense.
+### Data Visualization
 
-### 6. Category-wise Expense Analysis
+The project generates:
 
-Calculates total spending for each category such as:
-
-- Food
-- Travel
-- Shopping
-- Entertainment
-
-### 7. Payment-method Analysis
-
-Analyzes spending based on payment methods such as:
-
-- UPI
-- Cash
-- Card
-
-### 8. Category Filtering
-
-Allows the user to enter a category and view expenses belonging
-to that category.
-
-### 9. Monthly Expense Analysis
-
-Calculates total spending for each month.
-
-### 10. Expense Visualization
-
-Creates visualizations to help understand spending patterns.
-
----
+- Category-wise expense bar chart
+- Monthly expense trend line chart
+- Category spending distribution pie chart
 
 ## Technologies Used
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Jupyter Notebook
-- VS Code
-
----
+- Git
+- GitHub
 
 ## Python Concepts Used
 
-This project applies the following Python concepts:
-
 - Variables
 - Data types
+- Lists and dictionaries
 - Conditional statements
-- `if`
-- `if-else`
-- `if-elif-else`
-- `for` loops
-- `while` loops
+- Loops
 - Functions
 - Modules
 - Exception handling
-- File paths
-- User input
-
----
+- File handling
+- String methods
+- Input validation
 
 ## Data Analysis Techniques
 
-The project performs:
+The project uses Pandas for:
 
 - Data loading
 - Data inspection
-- Missing-value detection
-- Duplicate detection
+- Missing value handling
+- Duplicate removal
 - Data type conversion
-- Data filtering
-- Grouping
+- GroupBy operations
 - Aggregation
+- Sorting
+- Filtering
+- Percentage calculation
 - Date-based analysis
-- Basic data validation
 
----
+## Dataset
+
+The project uses a synthetic expense dataset created for learning and project development purposes.
+
+### Raw Dataset
+
+- Rows: 505
+- Columns: 5
+
+### Cleaned Dataset
+
+After data cleaning:
+
+- Rows: 500
+- Columns: 5
+- Missing values: 0
+- Duplicate rows: 0
+
+### Dataset Columns
+
+| Column | Description |
+|---|---|
+| Date | Date of the expense |
+| Category | Expense category |
+| Description | Description of the transaction |
+| Amount | Expense amount |
+| Payment_Method | Method used for payment |
+
+### Expense Categories
+
+- Food
+- Travel
+- Shopping
+- Entertainment
+- Bills
+- Health
+- Education
+
+### Payment Methods
+
+- UPI
+- Cash
+- Card
+- Net Banking
+
+## Data Cleaning
+
+The raw dataset contains missing values and duplicate records.
+
+The following cleaning operations were performed:
+
+1. Converted the `Date` column to datetime format.
+2. Identified missing values.
+3. Filled missing categories using transaction descriptions.
+4. Replaced missing descriptions with `Unknown`.
+5. Removed duplicate rows.
+6. Verified that the cleaned dataset contains no missing values or duplicates.
+7. Saved the cleaned data as `cleaned_expenses.csv`.
+
+## Exploratory Data Analysis
+
+The Jupyter Notebook performs several analyses including:
+
+- Total expense
+- Average expense
+- Highest transaction
+- Lowest transaction
+- Category-wise spending
+- Payment-method spending
+- Monthly spending
+- Average daily expense
+- High-value transactions
+- Top 10 expenses
+- Number of transactions by category
 
 ## Project Structure
 
 ```text
-Personal-Expense-Analyzer/
+personal-expense-analyzer/
 │
 ├── data/
-│   └── expenses.csv
+│   ├── expenses.csv
+│   └── cleaned_expenses.csv
 │
 ├── notebooks/
 │   └── expense_analysis.ipynb
 │
 ├── results/
-│   └── category_expense.png
+│   ├── category_expense.csv
+│   ├── category_expense.png
+│   ├── monthly_expense.png
+│   └── category_distribution.png
 │
 ├── src/
-│   ├── main.py
-│   └── functions.py
+│   ├── functions.py
+│   └── main.py
 │
 ├── .gitignore
 ├── README.md
